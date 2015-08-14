@@ -8,7 +8,8 @@ then i thought about a cool idea which results in our cool "Mac Terminal 404 pag
 
 ![Alt text](http://cl.ly/image/071w2L1j3M1v/Screen%20Recording%202015-08-14%20at%207.56.33%20PM.gif "Demo Gif")
 
-Typed.js
+
+Readme from Typed.js
 ========
 
 [View the live demo](http://www.mattboldt.com/demos/typed-js/) | [Go to my site, mattboldt.com](http://www.mattboldt.com)
