@@ -6,6 +6,8 @@ url [Typed.js Demo Page](http://www.mattboldt.com/demos/typed-js)
 
 then i thought about a cool idea which results in our cool "Mac Terminal 404 page" ,spacial thanks to author mattboldt for his cool Typed.js script ! you can find our demo page in this url [Mac Terminal 404 page demo](http://sysadminsyndicate.github.io/terminal-404typed-js/)
 
+![Alt text](http://cl.ly/image/071w2L1j3M1v/Screen%20Recording%202015-08-14%20at%207.56.33%20PM.gif "Demo Gif")
+
 Typed.js
 ========
 
