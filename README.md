@@ -4,9 +4,7 @@ We were looking for a cool 404 page for our tech group [sysadminsyndicate.com](h
 
 url [Typed.js Demo Page](http://www.mattboldt.com/demos/typed-js)
 
-then i thought about a cool idea which results in our cool "Mac Terminal 404 page" ,spacial thanks to author mattboldt for 
-
-his cool Typed.js script ! you can find our demo page in this url [Mac Terminal 404 page demo](http://sysadminsyndicate.github.io/terminal-404typed-js/)
+then i thought about a cool idea which results in our cool "Mac Terminal 404 page" ,spacial thanks to author mattboldt for his cool Typed.js script ! you can find our demo page in this url [Mac Terminal 404 page demo](http://sysadminsyndicate.github.io/terminal-404typed-js/)
 
 Typed.js
 ========
